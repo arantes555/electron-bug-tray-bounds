@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "electron": "2.0.3"
+    "electron": "3.1.13"
   },
   "scripts": {
     "start": "electron ./app/"
